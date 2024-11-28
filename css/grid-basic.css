@@ -1,0 +1,4 @@
+.style-grid [class^=col]{
+    background: #ddd;
+    border: 1px solid #fff;
+}
